@@ -18,3 +18,14 @@ program to find parenthesis
 program to find regular expression
 program to find seasons and months in year
 program to remove common words in strings
+day :3
+program to check trading
+program to find project period
+program to check array in good pairs
+program to find binary strings
+program to check jumped forward elements
+program to find mirror numbers
+program to find unique permutations
+program to find anagram formed rearrangement
+program to find regular expresssions matching
+program to find stings in maximum words
